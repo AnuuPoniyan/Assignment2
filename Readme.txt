@@ -94,7 +94,7 @@ While making this game, I learned and practiced:
 
 Use GCC in Windows:
 gcc shooter_game.c -o game
-shooter_game.exe
+game.exe
 
 
 ---
@@ -103,5 +103,6 @@ shooter_game.exe
 
 This is an ASCII console-based game made in C.  
 It works best in CMD or PowerShell on Windows.
+
 
 Made by: Aneesh Poniyan(B.Tech CSE)
